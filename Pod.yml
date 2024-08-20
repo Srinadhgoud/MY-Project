@@ -6,4 +6,4 @@ spec:
   serviceAccountName: my-service-account
   containers:
   - name: my-container
-    image: my-image
+    image: srinadh123/my-image:latest
